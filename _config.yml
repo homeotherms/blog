@@ -6,7 +6,7 @@ markdown: kramdown
 #markdown: rdiscount
 
 author: "homeotherms"
-atom-baseurl: "http://homeotherms.com"
+atom-baseurl: "homeotherms.com"
 disqus: "gopherwood"
 
 navigations:
