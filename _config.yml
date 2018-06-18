@@ -1,12 +1,12 @@
 markdown: rdiscount
 highlighter: rouge
 permalink: /:year/:month/:day/:title.html
-name: "流水沉微"
+name: "温血动物"
 markdown: kramdown
 #markdown: rdiscount
 
-author: "Shuxiao Wang"
-atom-baseurl: "http://blogs.shuxiao.wang"
+author: "homeotherms"
+atom-baseurl: "http://homeotherms.com"
 disqus: "gopherwood"
 
 navigations:
