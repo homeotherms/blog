@@ -1,0 +1,31 @@
+markdown: rdiscount
+highlighter: rouge
+permalink: /:year/:month/:day/:title.html
+name: "流水沉微"
+markdown: kramdown
+#markdown: rdiscount
+
+author: "Shuxiao Wang"
+atom-baseurl: "http://blogs.shuxiao.wang"
+disqus: "gopherwood"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+#  - title: Tags
+#    class: fa fa-tags
+#    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+#  - title: Gallery
+#    class: fa fa-film
+#    href: http://foto.lhzhang.com
+#  - title: Blogroll
+#    class: fa fa-link
+#    href: /links.html
+#  - title: Subscribe
+#    class: fa fa-rss
+#    href: /atom.xml
+
