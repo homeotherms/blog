@@ -1,6 +1,7 @@
 title: 温血动物
-logo: /assets/img/logo.png
+#logo: /assets/img/logo.png
 description: 愿做一些微小的贡献
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+lang: zh-CN
