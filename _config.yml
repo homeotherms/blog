@@ -1,33 +1,6 @@
-markdown: rdiscount
-highlighter: rouge
-permalink: /:year/:month/:day/:title.html
-name: "温血动物"
-markdown: kramdown
-#markdown: rdiscount
-
-author: "homeotherms"
-atom-baseurl: "homeotherms.com"
-disqus: "gopherwood"
-
-navigations:
-  - title: Archive
-    class: fa fa-list-ul
-    href: /archive.html
-#  - title: Tags
-#    class: fa fa-tags
-#    href: /tags.html
-  - title: About
-    class: fa fa-user
-    href: /about.html
-#  - title: Gallery
-#    class: fa fa-film
-#    href: http://foto.lhzhang.com
-#  - title: Blogroll
-#    class: fa fa-link
-#    href: /links.html
-#  - title: Subscribe
-#    class: fa fa-rss
-#    href: /atom.xml
-
-
-theme: jekyll-theme-leap-day
+title: 温血动物
+logo: /assets/img/logo.png
+description: 愿做一些微小的贡献
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
