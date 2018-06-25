@@ -55,6 +55,16 @@ a:hover small {
   color:#777;
 }
 
+ul.listing {
+  margin-top: 1em;
+  li {
+    list-style-type:none;
+    padding: 0;
+    &.listing-item { a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; } }
+    &.listing-seperator { font-family: #{"Noto Sans"}; &:before { content: "⭠ "; color: #ccc; } }
+  }
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
