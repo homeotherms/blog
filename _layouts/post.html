@@ -5,6 +5,8 @@ layout: default
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h1>{{ page.title }}</h1>
 
+{% include toc.html html=content id='toc' %}
+
 <p class="view">by {{ page.author | default: site.author }}</p>
 
 {{content}}

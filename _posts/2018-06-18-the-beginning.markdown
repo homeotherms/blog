@@ -4,7 +4,7 @@ title: 温血动物
 guid: 0a683167-94e5-4ade-8e4f-ec84e2f0ef02
 author: zun
 tags:
-  - Diary
+  - HelloWorld
 ---
 
 “提问：你们平时会写一些东西出来而且希望跟大家分享吗？”
